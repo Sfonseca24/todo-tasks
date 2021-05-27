@@ -9,6 +9,8 @@
   "author": "Santiago Fonseca",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.11",
+    "node-env-file": "^0.1.8"
   }
 }
